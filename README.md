@@ -56,29 +56,8 @@ Trainer who is conducting coaching classes, teaches students who had paid fees f
 -	View invoice and make payment for modules enrolled.
 -	Update own profile.
 
-# Storyboard
-
-![welcome](https://github.com/user-attachments/assets/cd1e4bad-329f-4d7d-a256-54d6d1cc65ab)
-
-| Control             | Description                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| PictureBox1 | To display the picture of the welcome page |
-| Button 1 | To able user to enter the login page |
-
-![login](https://github.com/user-attachments/assets/926eeb3b-0604-4d14-919a-9ddb4bd7eae3)
-
-| Control             | Description                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Label 1 | To label the related controls |
-| Label 2 | To label the related controls |
-| TextBox 1 | To allow user to enter their TP Number |
-| TextBox 2 | To allow user to enter the password |
-| LinkLabel1 | To allow user to get their password when they forgot their password |
-| PictureBox1 | To display the icon of the user |
-| PictureBox2 | To allow the user to check the password they enter |
-| PictureBox3 | To allow the user to exit the login page |
-| PictureBox4 | To allow the user to enter to the system |
-| PictureBox5 | To allow the user to clear the text box |
+# Use-Case Diagram
+![use-case](https://github.com/user-attachments/assets/a9399f91-2e3a-42da-b0ef-d2c822542e6b)
 
 ## 🛠 Skills
 C#

@@ -77,6 +77,8 @@ Trainer who is conducting coaching classes, teaches students who had paid fees f
 | PictureBox1 | To display the icon of the user |
 | PictureBox2 | To allow the user to check the password they enter |
 | PictureBox3 | To allow the user to exit the login page |
+| PictureBox4 | To allow the user to enter to the system |
+| PictureBox5 | To allow the user to clear the text box |
 
 ## 🛠 Skills
 C#
